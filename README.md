@@ -1,7 +1,7 @@
 amr-bookmarklet
 ======
 
-Saves a file containing the number of chapters left to read to catch up on each series followed on All Mangas Reader It's meant to be used as a bookmarklet. The code itself can be save as a DevTools Snippet too.
+Saves a file containing the number of chapters left to read to catch up on each series followed on All Mangas Reader It's meant to be used as a bookmarklet. The code itself can be saved as a DevTools Snippet too.
 
 To use as a bookmarklet use the following in your bookmark URL:
 
